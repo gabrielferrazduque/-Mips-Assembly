@@ -47,3 +47,6 @@ main:
     
     li $v0, 10         # Encerrar programa.
     syscall
+
+
+  
