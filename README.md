@@ -32,7 +32,7 @@ li $v0, 10      # Código para terminar.
 syscall         # Chama o sistema.
 .data
 msg: .asciiz "Resultado: "
-var: .word 42
+var: .word 
 
 .text
 main:
